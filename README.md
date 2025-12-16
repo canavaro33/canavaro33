@@ -1,6 +1,6 @@
 Hi there, I'm Canavaro Daud👋
 
-Turning Raw Data unto actionable Insights | Information Systems Student | Aspiring Data Analyst 
+Turning Raw Data into actionable Insights | Information Systems Student | Aspiring Data Analyst 
 
 ---
 
