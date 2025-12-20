@@ -15,6 +15,7 @@ I'm a 5th-semester Information Systems student with a strong passion for transfo
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
