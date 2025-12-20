@@ -67,7 +67,7 @@ Esa Unggul University - Information System
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=canavaro33&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=canavaro33&show_icons=true&theme=tokyonight)
 
 ---
 
