@@ -81,7 +81,7 @@ My journey evolved from data analysis and business intelligence into AI engineer
 ### Sales Performance Dashboard — Power BI *(December 2025)*
 &gt; Interactive sales analytics dashboard by product, region, and monthly trend
 
-### Retail Sales Dashboard *(December 2026)*
+### Retail Sales Dashboard *(December 2025)*
 &gt; SQL-based retail data analysis identifying customer trends and top-performing products
 
 ## 🤝 Let's Collaborate!
