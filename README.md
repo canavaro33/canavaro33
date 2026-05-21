@@ -101,16 +101,8 @@ Let's connect and create something impactful! 💡
 
 ## 📫 Connect With Me
 
-[Linked In] (www.linkedin.com/in/canavaro-daud-139913279)
-[Gmail]     (mailto.canavadaud@gmail.com)
-
----
-
-## 🎓 Education
-
-Esa Unggul University - Information System
-* Current Semester   : 5th
-* Expected Graduation: Q2 2027
+[LinkedIn](https://www.linkedin.com/in/canavaro-daud-139913279)
+[Email](mailto:canavadaud@gmail.com)
 
 ---
 
@@ -122,4 +114,4 @@ Esa Unggul University - Information System
 
 ## Fun Fact About Me
 
-When I'm not coding AI systems, you'll find me on the basketball court! I believe basketball and engineering share the same DNA — both require reading patterns, predicting outcomes, and making split-second decisions. Whether it's tracking shooting percentages or optimizing RAG retrieval accuracy, I love finding the winning strategy. Game recognizes game! 📊🤖ognizes game! 📊
+When I'm not coding AI systems, you'll find me on the basketball court! I believe basketball and engineering share the same DNA — both require reading patterns, predicting outcomes, and making split-second decisions. Whether it's tracking shooting percentages or optimizing RAG retrieval accuracy, I love finding the winning strategy. Game recognizes game! 📊🤖
